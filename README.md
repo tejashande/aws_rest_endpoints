@@ -30,3 +30,5 @@ To start node services, set AWS_ACCESS_KEY and AWS_SECRET_ACCESS_KEY environment
 ```
 AWS_ACCESS_KEY='<AWS_ACCESS_KEY>' AWS_SECRET_ACCESS_KEY='<AWS_SECRET_ACCESS_KEY>' npm start
 ```
+
+To access them, go to http://localhost:3000/explorer and you’ll see the API explorer. 
